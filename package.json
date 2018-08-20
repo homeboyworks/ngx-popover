@@ -1,29 +1,29 @@
 {
   "name": "ngx-popover",
-  "version": "0.0.16",
-  "description": "Simple popover control for your angular2 applications using bootstrap3.",
+  "version": "0.0.17",
+  "description": "Simple popover control for your angular6 applications using bootstrap3.",
   "license": "MIT",
   "readmeFilename": "README.md",
   "private": true,
   "author": {
-    "name": "Umed Khudoiberdiev",
-    "email": "pleerock.me@gmail.com"
+    "name": "Homeboyworks",
+    "email": "homeboyworks@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pleerock/ngx-popover.git"
+    "url": "https://github.com/homeboyworks/ngx-popover.git"
   },
   "bugs": {
-    "url": "https://github.com/pleerock/ngx-popover/issues"
+    "url": "https://github.com/homeboyworks/ngx-popover/issues"
   },
   "tags": [
     "popover",
-    "angular2",
+    "angular6",
     "typescript",
-    "angular2-popover"
+    "angular6-popover"
   ],
   "peerDependencies": {
-    "@angular/core": "^2.0.0"
+    "@angular/core": "latest"
   },
   "devDependencies": {
     "@angular/common": "latest",
